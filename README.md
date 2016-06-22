@@ -8,3 +8,5 @@ available for people using older Neovim versions.
 
 `:CheckHealth` to display diagnostic information.  `:CheckHealth!` to display
 the information in a new buffer.
+
+[Neovim]: https://github.com/neovim/neovim
